@@ -1,0 +1,52 @@
+$detail-color: #4989f3;
+
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+/*Kameramodus*/
+
+mat-accordion .mat-expansion-panel{
+  padding:1rem 0;
+  display: flex;
+  justify-content: flex-end;
+  background-color: $detail-color;
+  color:white;
+  flex-direction: column;
+  margin-bottom: .7rem;
+}
+
+
+.mat-expansion-panel-header{
+
+}
+
+.mat-panel-title{
+  margin: 0px;
+  color:green;
+}
+
+ .kulturen-liste{
+ display:flex;
+  flex-direction: column;
+  padding-top: 1rem;
+  color:green;
+}
+
+.component-view{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .component-view {
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-top: 15px;
+    padding-left:15px;
+  }
+}

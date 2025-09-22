@@ -1,0 +1,7 @@
+<div class="component-view">
+  <button [routerLink]="'/kameramodus'">Kamera öffnen</button>
+
+  <button (click)="startCamera()">Kamera auslösen</button>
+  <video #videoElement autoplay playsinline width="720" height="560"></video>
+
+</div>

@@ -1,0 +1,42 @@
+<!--
+Das soll "auf" der Fotoaufnahme erscheinen. Der Hintergrund stellt also das fotografierte Beet dar, und in der Ecke links oben, kann man dann die Kräuter auswählen
+-->
+
+<div class="component-view">
+  <mat-accordion>
+    <mat-expansion-panel hideToggle class="mat-expansion-panel">
+      <mat-expansion-panel-header class="mat-expansion-panel-header">
+        <mat-panel-title class="mat-panel-title">
+          KRÄUTER
+        </mat-panel-title>
+<!--        <mat-panel-description>
+          This is a summary of the content
+        </mat-panel-description>-->
+      </mat-expansion-panel-header>
+      <ng-template matExpansionPanelContent>
+        <div class="kulturen-liste">
+     <button>Basilikum</button>
+     <button>Peterle</button>
+     <button>Majoran</button>
+        </div>
+      </ng-template>
+    </mat-expansion-panel>
+    <mat-expansion-panel hideToggle>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          GEMÜSE
+        </mat-panel-title>
+        <!--<mat-panel-description>
+          Currently I am {{panelOpenState ? 'open' : 'closed'}}
+        </mat-panel-description>-->
+      </mat-expansion-panel-header>
+      <ng-template matExpansionPanelContent>
+      <div class="kulturen-liste">
+        <button>Tomaten</button>
+        <button>Weißkohl</button>
+        <button>Spinat</button>
+      </div>
+      </ng-template>
+    </mat-expansion-panel>
+  </mat-accordion>
+</div>

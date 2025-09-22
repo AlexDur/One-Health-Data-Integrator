@@ -10,10 +10,7 @@ README: [Name Ihres One-Health-Tools]
 
 Schlüsselfunktionen
 
-    Früherkennung von Gesundheitsrisiken: Integration von Daten aus Humanmedizin, Veterinärmedizin und Umweltwissenschaften, um potenzielle Krankheitsausbrüche oder Umweltgefahren zu identifizieren.
-
-    Interaktives Dashboard: Eine intuitive Benutzeroberfläche visualisiert komplexe Daten und ermöglicht es Nutzern, Trends und geografische Hotspots zu erkennen.
-
-    Ressourcenmanagement: Zeigt in Echtzeit, wo medizinische oder veterinärmedizinische Ressourcen am dringendsten benötigt werden, um eine effiziente Verteilung zu gewährleisten.
-
-    Wissensdatenbank: Enthält aktuelle Informationen und Best Practices zu Zoonosen, Antibiotikaresistenzen und Umweltgesundheit.
+  Früherkennung von Gesundheitsrisiken: Integration von Daten aus Humanmedizin, Veterinärmedizin und Umweltwissenschaften, um potenzielle Krankheitsausbrüche oder Umweltgefahren zu identifizieren.
+  Interaktives Dashboard: Eine intuitive Benutzeroberfläche visualisiert komplexe Daten und ermöglicht es Nutzern, Trends und geografische Hotspots zu erkennen.
+  Ressourcenmanagement: Zeigt in Echtzeit, wo medizinische oder veterinärmedizinische Ressourcen am dringendsten benötigt werden, um eine effiziente Verteilung zu gewährleisten.
+  Wissensdatenbank: Enthält aktuelle Informationen und Best Practices zu Zoonosen, Antibiotikaresistenzen und Umweltgesundheit.
